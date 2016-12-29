@@ -1,0 +1,15 @@
+com\bean\Film.class
+com\event\BeforeEventPublisher.class
+com\event\AfterEventPublisher.class
+com\aspect\PublishSpring.class
+com\service\impl\FilmServiceImpl.class
+com\event\AfterEventHandler.class
+hand\Exam_12807_20161229_1\App.class
+com\event\StartEventHandler.class
+com\service\IFilmService.class
+com\event\StopEventHandler.class
+com\test\Test.class
+com\event\AfterInsertFilmEvent.class
+com\event\BeforeInsertFilmEvent.class
+com\dao\FilmDao.class
+com\event\BeforeEventHandler.class
